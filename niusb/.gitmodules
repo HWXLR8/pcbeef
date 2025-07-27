@@ -1,0 +1,3 @@
+[submodule "pcb/pro-micro-kicad"]
+	path = pcb/pro-micro-kicad
+	url = https://github.com/HWXLR8/pro-micro-kicad
